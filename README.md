@@ -1,5 +1,7 @@
 ## GraphQL MongoDB TypeScript Example 1
 
+![screenshot of graphiql ui](./screenshot.png)
+
 This example demonstrates use of:
 * TypeScript
 * Native mongodb client
@@ -40,5 +42,3 @@ yarn start
 ```
 
 This example does not make full use of TypeScripts features as strict type checking is disabled.
-
-![screenshot of graphiql ui](./screenshot.png)

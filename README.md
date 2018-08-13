@@ -33,11 +33,11 @@ Assumes the existence of a local mongo database called `poc_test`, with a collec
 
 To build and run using the yarn package manager (`brew install yarn` if you don't have it):
 
-`
+```
 yarn install
 yarn build
 yarn start
-`
+```
 
 This example does not make full use of TypeScripts features as strict type checking is disabled.
 
